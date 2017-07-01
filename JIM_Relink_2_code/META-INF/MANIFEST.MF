@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JIM_Relink_2
+Bundle-SymbolicName: JIM_Relink_2
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: jim_relink_2.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ com.justinmind.model;bundle-version="7.5.0",
+ com.justinmind.prototyper.api;bundle-version="7.5.0",
+ com.justinmind.util;bundle-version="7.5.0"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7

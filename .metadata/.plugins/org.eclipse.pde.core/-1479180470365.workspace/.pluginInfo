@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="412" class="jim_relink_2.Activator" localization="OSGI-INF/l10n/bundle" name="JIM_Relink_2" project="JIM_Relink_2"/>
+</map>
